@@ -1,4 +1,3 @@
-"# Kynestria_Learning_Lua" 
 
 Hey, so this is the first time I've ever put anything github, so yeah... No idea what I'm doing.
 
